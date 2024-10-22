@@ -111,7 +111,7 @@ These projects help me:
 ## 📫 Reach Out
 Got questions, suggestions, or just want to chat? Feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:vedant.thorat27@gmail.com)
+- **Email**: [vedant.thorat27@gmail.com](mailto:vedant.thorat27@gmail.com)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/vedant027/)
 
 Thanks for visiting my Java learning repository. Happy coding! 🎉
