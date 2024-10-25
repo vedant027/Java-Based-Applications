@@ -1,6 +1,6 @@
 # 🖥️ Java Learning Journey 🚀
 
-Welcome to **My Java Learning Repository**! This space is where I experiment, practice, and dive deep into **Java** through hands-on projects. From banking applications to task management, each project represents a unique challenge and learning opportunity, pushing me closer to mastering core **Java** concepts and applying them to practical scenarios.
+Welcome to **My Java Learning Repository**! This space is where I experiment, practice, and dive deep into **Java** through hands-on projects. From banking applications to task management, each project represents a unique challenge and learning opportunity, helping me implement core **Java** concepts and applying them to practical scenarios.
 
 ---
 
